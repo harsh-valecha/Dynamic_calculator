@@ -1,4 +1,4 @@
-**Technical Documentation: Session-based Formula Calculator**
+# Session Based Formula Calculator
 
 ---
 
@@ -133,10 +133,10 @@ Loads and displays session data in the Gradio UI.
 
 ### Running the Application
 
-1. Save the script as `formula_calculator.py`.
+1. Save the script as `dynamic_calculator.py`.
 2. Run the script:
    ```bash
-   python formula_calculator.py
+   python dynamic_calculator.py
    ```
 3. Open the Gradio interface in your web browser.
 
